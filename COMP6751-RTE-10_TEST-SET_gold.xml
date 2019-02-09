@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE entailment-corpus SYSTEM "rte.dtd">
+<entailment-corpus challenge="1">
+	<pair id="1" value="TRUE" task="CD">
+		<t>Children as young as six are being sexually abused by UN peacekeepers and aid workers, says a leading UK charity. Children in post-conflict areas are being abused by the very people drafted into such zones to help look after them, says Save the Children.</t>
+		<h>UN peacekeepers abuse children.</h>
+	</pair>
+	<pair id="2" value="TRUE" task="CD">
+		<t>Sexual abuse of children as young as six by aid workers and United Nations peacekeepers has continued unchecked despite repeated promises to stamp it out, according to a 12-month investigation.</t>
+		<h>UN peacekeepers abuse children.</h>
+	</pair>
+	<pair id="3" value="FALSE" task="CD">
+		<t>Reports from other developed nations were corroborating these findings. Europe, New Zealand and Australia were also beginning to report decreases in new HIV cases.</t>
+		<h>AIDS victims increase in Europe.</h>
+	</pair>
+	<pair id="4" value="TRUE" task="CD">
+		<t>Boris Franz Becker, German tennis player who, on July 7, 1985, became the youngest champion in the history of the men's singles at Wimbledon.</t>
+		<h>Becker was a tennis champion.</h>
+	</pair>
+	<pair id="5" value="FALSE" task="CD">
+		<t>Set in the New York City borough of The Bronx, the show starred Ted Danson as the title character, Dr. John Becker, a doctor who operates a small practice and is constantly annoyed by his patients, co-workers, friends, and practically everything and everybody else in his world. Becker has never played tennis in his life.</t>
+		<h>Becker was a tennis champion.</h>
+	</pair>
+	<pair id="6" value="TRUE" task="CD">
+		<t>A French court on Wednesday sentenced serial killer Michel Fourniret and his wife to life in prison for the murder of seven girls and young women.</t>
+		<h>Michel Fourniret was sentenced to life imprisonment.</h>
+	</pair>
+	<pair id="7" value="TRUE" task="CD">
+		<t>Former White House spokesman Scott McClellan has said US President George W Bush was not "open and forthright" on Iraq and rushed to an unnecessary war. In a new book, Mr McClellan says Mr Bush relied on a "political propaganda campaign" to sell the war. His handling of Hurricane Katrina is also attacked.</t>
+		<h>Bush is criticised over Iraq.</h>
+	</pair>
+	<pair id="8" value="FALSE" task="CD">
+		<t>Australia and Japan, two countries that have backed Bush's military intervention in Iraq with their own forces, praised Bush's role on the world stage and his call for freedom to combat tyranny.</t>
+		<h>Bush is criticised over Iraq.</h>
+	</pair>
+	<pair id="9" value="TRUE" task="CD">
+		<t>Governments across the world - particularly in a belt of countries across North Africa, from Mauritania to Egypt - are looking nervously at rising food prices and wondering about the political impact if things do not ease soon.</t>
+		<h>Food prices are on the increase.</h>
+	</pair>
+	<pair id="10" value="FALSE" task="CD">
+		<t>Lower food prices pushed the UK's inflation rate down to 1.1% in August, the lowest level since 1963. The headline rate of inflation fell to 1.1% in August, pushed down by falling food prices.</t>
+		<h>Food prices are on the increase.</h>
+	</pair>
+</entailment-corpus>

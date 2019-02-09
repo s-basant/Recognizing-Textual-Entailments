@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE entailment-corpus SYSTEM "rte.dtd">
+<entailment-corpus challenge="1">
+	<pair id="11" value="TRUE" task="CD">
+		<t>Preem Palver is a fictional character, part of the Foundation Series by the sci-fi writer Isaac Asimov.  </t>
+		<h>Isaac Asimov invented Preem Palver.</h>
+	</pair>
+	<pair id="12" value="FALSE" task="CD">
+		<t>White was approached by Harry M. Miller to work on a screenplay for Voss, but nothing came of it.  </t>
+		<h>White wrote a screenplay for Voss.</h>
+	</pair>
+	<pair id="13" value="TRUE" task="CD">
+		<t>Jerry Reinsdorf helped the White Sox win the 2005 World Series and, in the process, collected his seventh championship ring overall (the first six were all with the Bulls in the 1990s), becoming the third owner in the history of North American sports to win a championship in two different sports.</t>
+		<h>Jerry Reinsdorf is the owner of the White Sox.</h>
+	</pair>
+	<pair id="14" value="TRUE" task="CD">
+		<t>They named themselves for Saint Joan of Arc. The brigade began with 17 women, but soon grew to 135 members. Its mission was to obtain money, weapons, provisions, and information for the combatant men; they also cared for the wounded. </t>
+		<h>The Saint Joan of Arc brigade assisted the wounded.</h>
+	</pair>
+	<pair id="15" value="FALSE" task="CD">
+		<t>JetBlue Flight 292, en route to New York's JFK Airport from Burbank, California, encountered nose gear malfunctions shortly after takeoff.</t>
+		<h>The JetBlue flight 292 crashed down shortly after takeoff.</h>
+	</pair>
+	<pair id="16" value="FALSE" task="CD">
+		<t>The 'suspension' comes after Arab Iranians protested in the city of Ahvaz. The Iranians claim that Al Jazeera incited the protests.</t>
+		<h>Al Jazeera is based in Ahvaz.</h>
+	</pair>
+	<pair id="17" value="FALSE" task="CD">
+		<t>The helicopter went down at 1:20 a.m. local time near Rutbah, about 355 km west of Baghdad, while conducting security operations. The aircraft was transporting personnel from 1st Marine Division.</t>
+		<h>Personnel from 1st Marine division were killed near Rutbah.</h>
+	</pair>
+	<pair id="18" value="TRUE" task="CD">
+		<t>Shiite, Kurdish and Sunni leaders issued a communiqué which calls for a pullout timetable for the U.S.-led coalition forces and also calls the insurgency "legitimate".</t>
+		<h>Shiite, Kurdish and Sunni leaders back the insurgency.</h>
+	</pair>
+	<pair id="19" value="FALSE" task="CD">
+		<t>Outgoing Prime Minister Iyad Allawi of Iraq escaped an assassin's bomb around 11pm local time on Wednesday night.</t>
+		<h>Iyad Allawi was killed by a bomb.</h>
+	</pair>
+	<pair id="20" value="FALSE" task="CD">
+		<t>The bomb was set off by the attacker from a pickup truck loaded with TNT and mortar rounds, after police opened fire at him.</t>
+		<h>The attacker was killed by the police.</h>
+	</pair>
+	<pair id="21" value="FALSE" task="CD">
+		<t>A political party has formed in Australia to represent Muslims. The Best Party of Allah issued a press release on September 5 announcing that they would seek registration in the Australian Capital Territory.</t>
+		<h>The Best Party of Allah is based in the Australian Capital Territory.</h>
+	</pair>
+	<pair id="22" value="TRUE" task="CD">
+		<t>"We acknowledge that as Australian citizens, we will abide by its civil laws and the rule of law. And as Believers in Allah we also have a commitment to the rule of Allah's laws in our personal lives," Mr. Kennedy said.</t>
+		<h>Mr. Kennedy is an Australian citizen.</h>
+	</pair>
+	<pair id="23" value="TRUE" task="CD">
+		<t>A small Category 1 hurricane, with top wind speeds of 85 mph (136 kmph), Ophelia is nearly stalled in its current position in North Carolina and, in the words of another resident, Laurie Garner, "It just beat us and beat us and beat us."</t>
+		<h>Laurie Garner resides in North Carolina.</h>
+	</pair>
+	<pair id="24" value="FALSE" task="CD">
+		<t>The probe was named after Dutch astronomer Christiaan Huygens, who discovered Titan in 1655.</t>
+		<h>Christiaan Huygens was the inventor of the probe.</h>
+	</pair>
+	<pair id="25" value="TRUE" task="CD">
+		<t>Huygens, the European built Titan exploration probe, ended its seven-year voyage today when it landed on the surface of the second largest moon in the solar system at 11:38 a.m. UTC. The probe, which the European Space Agency (ESA) began developing 17 years ago, has worked well with only minor system failures.</t>
+		<h>Huygens was built by ESA.</h>
+	</pair>
+	<pair id="26" value="FALSE" task="CD">
+		<t>Around ten suspected Muslim militants took part in the fifteen minute long attack in the early hours of Sunday morning, leaving the 76-year-old monk, Kaew Panjapetchkaew, with his throat cut.</t>
+		<h>Kaew Panjapetchkaew was a Muslim monk.</h>
+	</pair>
+	<pair id="27" value="FALSE" task="CD">
+		<t>Dr. Jayant Patel, an Indian-born U.S. citizen, is being linked to at least 87 deaths over the course of two years. A government inquiry has recommended he be charged with murder and negligence causing harm.</t>
+		<h>Jayant Patel killed 87 people.</h>
+	</pair>
+	<pair id="28" value="FALSE" task="CD">
+		<t>Toni Hoffman, the nurse who called Dr. Patel's surgical record to attention in March, said, "We'd taken to hiding patients. We just thought, 'What on earth can we do to stop this man?'"</t>
+		<h>Toni Hoffman worked for Dr. Patel.</h>
+	</pair>
+	<pair id="29" value="FALSE" task="CD">
+		<t>The Queensland state inquiry has recommended Dr. Patel be charged with the murder of James Edward Phillips, a cancer patient, who died five days after Dr. Patel removed a part of Mr. Phillips' esophagus, despite the fact that Mr. Phillips had been refused surgery because his chances of survival were slim.</t>
+		<h>Edward Philips died of cancer.</h>
+	</pair>
+	<pair id="30" value="FALSE" task="CD">
+		<t>An Omega spokesman Toby Gascon said of Greenpeace, "They have now demonstrated that their real agenda is to put Omega out of business, even if it means risking the safety of Omega's fishermen."</t>
+		<h>Toby Gascon belongs to Greenpeace.</h>
+	</pair>
+	<pair id="31" value="FALSE" task="CD">
+		<t>Mr. Margulies says Mr. Habib needs medical treatment for chronic physical and mental conditions he suffers from his incarceration.</t>
+		<h>Incarceration causes chronic physical and mental conditions.</h>
+	</pair>
+	<pair id="32" value="FALSE" task="CD">
+		<t>Mr. Habib was detained by Coalition forces in Afghanistan three weeks after the September 11 attacks on the World Trade Center in New York, on suspicion of having links to Osama bin Laden and the Al Qaeda terrorist group.</t>
+		<h>Habib participated in the September 11 attacks.</h>
+	</pair>
+	<pair id="33" value="FALSE" task="CD">
+		<t>Fathiya Barghouti Rheime, a 30-year-old high school teacher, and mother of two, was one of the seven Hamas mayors elected in the Gaza strip.</t>
+		<h>A woman was elected mayor of Gaza.</h>
+	</pair>
+	<pair id="34" value="TRUE" task="CD">
+		<t>Fathiya Barghouti Rheime, a 30-year-old high school teacher, and mother of two, was one of the seven Hamas mayors elected in the Gaza strip.</t>
+		<h>A woman won mayor election in the Gaza strip.</h>
+	</pair>
+	<pair id="35" value="TRUE" task="CD">
+		<t>Harvard University's fourth ranked women's hockey team Crimson lost to the first-ranked Minnesota Gophers, 4-3, after a close title match where Harvard was coming from behind all game.</t>
+		<h>Minnesota Gophers defeated the Harvard University women's hockey team.</h>
+	</pair>
+	<pair id="36" value="FALSE" task="CD">
+		<t>Malaysia's Environment Minister, Adenan Satem, and Commodities Minister, Peter Chin, will meet with Indonesia's forestry minister and officials from its environment ministry in Medan, according to Malaysian media.</t>
+		<h>Medan is in Malaysia.</h>
+	</pair>
+	<pair id="37" value="TRUE" task="CD">
+		<t>Boeing's Vice President for Expendable Launch Systems, Dan Collins, said that the rocket malfunction was caused by a shorter first stage burn than was expected.</t>
+		<h>Dan Collins works for Boeing.</h>
+	</pair>
+	<pair id="38" value="TRUE" task="CD">
+		<t>Now that the Houston Astros are finally in the World Series, they couldn't be set up any better. Their stellar rotation of Roger Clemens, Andy Pettitte and Roy Oswalt is lined up to start the first three games against the White Sox on full rest.</t>
+		<h>The Houston Astros play the White Sox.</h>
+	</pair>
+	<pair id="39" value="FALSE" task="CD">
+		<t>Despite being more valuable than Time Warner, which is worth $78bn, Google's annual sales amount to less than a 13th of the far more diversified and traditional media giant. Google's revenues are $3.2bn a year versus the $42bn a year that Time Warner generates.</t>
+		<h>Google is a subsidiary of Time Warner.</h>
+	</pair>
+	<pair id="40" value="TRUE" task="cd">
+		<t>German retail corporation Rewe plans to open several Penny Market discount stores in Romania in the middle of this year.</t>
+		<h>Rewe is based in Germany.</h>
+</pair></entailment-corpus>
